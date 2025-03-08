@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>684</width>
-    <height>748</height>
+    <height>739</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -53,6 +53,19 @@
        <height>61</height>
       </rect>
      </property>
+     <widget class="QScrollBar" name="verticalScrollBar_5">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>0</y>
+        <width>16</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+     </widget>
     </widget>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -94,6 +107,19 @@
        <height>61</height>
       </rect>
      </property>
+     <widget class="QScrollBar" name="verticalScrollBar_4">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>0</y>
+        <width>16</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+     </widget>
     </widget>
    </widget>
    <widget class="QLabel" name="label_3">
@@ -189,6 +215,19 @@
        <height>61</height>
       </rect>
      </property>
+     <widget class="QScrollBar" name="verticalScrollBar_3">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>0</y>
+        <width>16</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+     </widget>
     </widget>
    </widget>
    <widget class="QScrollArea" name="scrollArea_4">
@@ -212,6 +251,19 @@
        <height>61</height>
       </rect>
      </property>
+     <widget class="QScrollBar" name="verticalScrollBar_2">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>0</y>
+        <width>16</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+     </widget>
     </widget>
    </widget>
    <widget class="QScrollArea" name="scrollArea_5">
@@ -271,6 +323,19 @@
        <height>61</height>
       </rect>
      </property>
+     <widget class="QScrollBar" name="verticalScrollBar_6">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>0</y>
+        <width>16</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+     </widget>
     </widget>
    </widget>
    <widget class="QPushButton" name="pushButton">
