@@ -4,8 +4,8 @@ import re
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox, QLabel, QVBoxLayout, QWidget, QPushButton
 from PySide6.QtGui import QClipboard
 from PySide6.QtCore import Qt
-from design import Ui_MainWindow  # First Window
-from design2 import Ui_MainWindow as GroupingWindow  # Second Window
+from design_ui import Ui_MainWindow  # First Window
+from design2_ui import Ui_MainWindow as GroupingWindow  # Second Window
 
 # Load the JSON Kanji mapping
 with open("kanji_levels.json", "r", encoding="utf-8") as f:
