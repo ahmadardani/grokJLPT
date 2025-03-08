@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>684</width>
-    <height>739</height>
+    <height>752</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -349,6 +349,84 @@
     </property>
     <property name="text">
      <string>Close</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>10</y>
+      <width>131</width>
+      <height>39</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>120</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>502</x>
+      <y>230</y>
+      <width>131</width>
+      <height>39</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>502</x>
+      <y>340</y>
+      <width>131</width>
+      <height>39</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>450</y>
+      <width>131</width>
+      <height>39</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>560</y>
+      <width>131</width>
+      <height>39</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy to clipboard</string>
     </property>
    </widget>
   </widget>
